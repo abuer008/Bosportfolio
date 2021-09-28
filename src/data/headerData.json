@@ -1,0 +1,22 @@
+[
+  {
+    "name": "all projects",
+    "link": "/",
+    "eventKey": "1"
+  },
+  {
+    "name": "product design",
+    "link": "/product-design",
+    "eventKey": "2"
+  },
+  {
+    "name": "UX/UI design",
+    "link": "/uxdesign",
+    "eventKey": "3"
+  },
+  {
+    "name": "Contact",
+    "link": "/contact",
+    "eventKey": "4"
+  }
+]
