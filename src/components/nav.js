@@ -1,8 +1,9 @@
 import React from 'react'
 import {Navbar, Nav, Container} from 'react-bootstrap'
 import { useStaticQuery, graphql } from 'gatsby'
+import {Footer} from './footer'
 
-export const Header = () => {
+export const Header = ({children}) => {
   const data = useStaticQuery(graphql`
       query navData {
           allHeaderDataJson {
@@ -42,6 +43,8 @@ export const Header = () => {
         </Navbar.Collapse>
       </Container>
     </Navbar>
+      {children}
+      <Footer />
     </div>
   )
 }

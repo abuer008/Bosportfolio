@@ -1,0 +1,27 @@
+{
+  "header": {
+    "headline": "Free D Lamp",
+    "subheadline": "Substantial exploration",
+    "body": "Change the shape of the lamp as you wish and make it as a decorative piece."
+  },
+  "introduction": {
+    "title": "Introduction",
+    "body": "The theme of the project was the light, and my idea was to design a lamp that can be freearbitrarily shaped.\nIn order to make the use of the lamp unrestricted by the location, I added a power-bank as energy for the lamp, and used a spring as the skeleton of the lamp so that the lamp can change shape."
+  },
+  "forming": {
+    "title": "Forming",
+    "body": "I chose a piece of water pipe as a shapable lamp housing. To test its ability to shape and transmit light as a lamp, I passed the led strip through the pipe to give it different shapes and observed the effect."
+  },
+  "components": {
+    "title": "Components",
+    "body": "This project consists of a spiral plastic strip, a shape-able LED strip, a USB cable, and a stretchable plastic lamp.\nThe LED strip is attached to the spiral fixing strip and wrapped with a lamp outside so that the lamp can be shaped into different shapes. The USB cable is used to connect the LED strip to the power supply."
+  },
+  "print": {
+    "title": "3D print",
+    "body": "I designed several different joints to connect multiple lamps front to back so that the user can extend the lamp indefinitely and create more shapes.\n\nThe power supply was incorporated into the product to make the lamp more portable, and it does not require cables. The housing for the power bank was designed, which also acts as a handle for the lamp. Its size and shape allow the power bank to fit perfectly in the handle. When the user needs to light up the lamp, they plug the USB connector on the lamp into the handle of the power bank."
+  },
+  "assemble": {
+    "title": "Assemble",
+    "body": "The concave and tapered joints were designed to make it easier for the user to fit the USB head to the power bank.\nThe port for charging the power bank has also been left open to use the lamp anywhere by charging the handle separately.\nThe details of the front and rear of the lamp have been matched, can be connected to form a loop or to extend with other lamps."
+  }
+}

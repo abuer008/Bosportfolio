@@ -4,8 +4,9 @@ import {Header} from '../../components/nav'
 const ProductDesign = () => {
   return (
     <div>
-      <Header />
+      <Header>
       <h1>Product Design page!</h1>
+      </Header>
     </div>
   )
 }

@@ -4,8 +4,9 @@ import { Header } from '../../components/nav'
 const Uxdesign = () => {
   return (
     <div>
-      <Header />
+      <Header>
       <h1>UX/UI design</h1>
+      </Header>
     </div>
   )
 }
