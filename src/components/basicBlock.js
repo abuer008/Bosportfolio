@@ -11,9 +11,9 @@ export const BasicBlock = ({url, textData, imgAlt = '', isVideo = false, isHeade
   return (
     <>
       <Container fluid='lg' className='p-md-5 my-md-5 w-100'>
-        <Row>
+        <Row className='w-100'>
           <Col md >
-            {isVideo ? <VideoBlock videoSource={url} /> : <img width='550' src={url} alt={imgAlt} />}
+            {isVideo ? <VideoBlock videoSource={url} /> : <img width='550' src={url} alt={imgAlt} className='w-100' />}
           </Col>
           <Col md>
             {isHeader ? <Headline headline={textData.headline} subheadline={textData.subheadline} body={textData.body} /> : <TextBlock title={textData.title} body={textData.body}/>}

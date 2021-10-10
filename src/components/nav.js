@@ -1,6 +1,6 @@
 import React from 'react'
 import {Navbar, Nav, Container} from 'react-bootstrap'
-import { useStaticQuery, graphql } from 'gatsby'
+import { useStaticQuery, graphql, Link } from 'gatsby'
 import {Footer} from './footer'
 
 export const Header = ({children}) => {
@@ -29,7 +29,9 @@ export const Header = ({children}) => {
     <Navbar sticky='top' expand='lg' bg='white' variant='light'>
       <Container fluid='md'>
         <Navbar.Brand>
+          <Link to='/'>
           <img src={data.file.publicURL} alt='' width='46' height='46' />
+          </Link>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls='basic-navbar-nav' />
         <Navbar.Collapse>

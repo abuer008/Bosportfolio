@@ -1,0 +1,55 @@
+{
+  "header": {
+    "headline": "AlzheimAR",
+    "subheadline": "Experience & Community",
+    "body": "This app can be used by Alzheimer’s family members, caregivers or others who want to learn about this disease. The user can experience the patient's physical and mental state through the patient role created in the APP to treat the Alzheimer patients around him more kindly."
+  },
+  "interview": {
+    "title": "Interview",
+    "body": "The Mother( Sophie) of  Anna's boyfriend  has Alzheimer's disease and now living in a professional nursing home. Anna is a nurse and her job is to take care of patients with dementia in the hospital. From the interview with Anna an her boyfriend, I experienced more about the symptons and social care of AD (Alzheimer's disease) patients, and get two critical questions from the perspective of caregivers: 1. lack of patience when dealing with alzheimer patients. 2. lack of understanding of alzheimer disease."
+  },
+  "visiting": {
+    "title": "Visiting the Nursing Home",
+    "body": "Doorplate：\nThere is a special doorplate on the door in every patients room, which with name and their special familiar patterns, so they can recognize their room. \nDigital clock：\nThere is an electronic clock in each patient's room to display the time (include year, month, day, etc) and the temperature. Because patients often cannot recognize time.\nTest：\nThe patients would finish the tests regularly. The content are such as simple arithmetic, spelling words, recognizing objects and so on."
+  },
+  "ideation": {
+    "title": "Simulate the world seen by Alzheimer's patients",
+    "body": "The experiences of AD patients are very different, and the cognitions about the surrounding environment and objects are difficult to express. I collected some of the feelings of the patients in their eyes from the family members and nursing staff caring for the patients, and simulated the world in the eyes of these patients."
+  },
+  "userResearch": {
+    "title": "customer journey map",
+    "body": "At this stage, I made a customer map to better analyze the motivation and feelings of users in each stage of using the product, and at the same time give myself directions to improve the product."
+  },
+  "mockUp": {
+    "title": "Low-fidelity mockups",
+    "body": "In this phase, based on the results of the user flow and customer journey map analysis, we put the purely theoretical research into practice in the visual design, further clarifying the layout of the final design by demonstrating the basic interaction logic and the arrangement of interaction points."
+  },
+  "loading": {
+    "title": "Loading Page",
+    "body": "The purple ribbon is the exclusive logo of the Alzheimer community and is also displayed as the app's icon on the loading page. The loading page is the first page that opens the app, and we introduce Alzheimer's in brief text to give users an initial understanding."
+  },
+  "register": {
+    "title": "Registration",
+    "body": "After registering the account, the user needs to create an Alzheimer's patient role, which can be a virtual identity. The user will use this APP from the first person's perspective."
+  },
+  "learning": {
+    "title": "Learning Alzheimer Diesease",
+    "body": "For those who want to learn about Alzheimer's disease, this Learning page provides the most professional and comprehensive information for Alzheimer's as a learning platform. It tracked the remarkable progress of the user, prepared the individual learning suggestions, let users absorb the knowledge that is more relevant for their patients."
+  },
+  "community": {
+    "title": "AD Community",
+    "body": "Users can share daily symptoms and stories with people around them in their personal centre for their characters, and the content shared is randomly displayed in other users’ communities. Likewise, the symptoms and stories users see in the community come from real shares by other users. When browsing the community, users can better understand what it’s like to live with Alzheimer’s disease through real symptoms and stories."
+  },
+  "distortion": {
+    "title": "Distortion",
+    "body": "Through machine recognition, visualizations of specific objects are replaced and distorted in realtime to give ordinary people a more intuitive understanding of the symptoms of cognitive impairment common to Alzheimer's patients."
+  },
+  "camera": {
+    "title": "AR Camera",
+    "body": "To let users understand the psychological state of Alzheimer's patients when they are lost, we used AR technology to distort the visual experience in reality. In the outdoor scenario, the distortion and decolorization of the street are used to simulate the visual effect of the elderly when they are lost."
+  },
+  "reface": {
+    "title": "Reface",
+    "body": "One of the most heartbreaking Alzheimer's diseases for loved ones and friends is that Alzheimer's patients regularly forget the friends around them and the good memories they once had due to the slow memory loss. From the perspective of Alzheimer patients, such a symptom is the most distressing and desperate and is the main reason why many patients suffer from depression at the same time. In contrast, the lack of understanding from the ordinary people around them triggers more conflicts in this scene. Through the latest AI technology, the AR camera can replace the images of people presented on the phone, turning otherwise familiar faces into strangers to experience scenarios unique to Alzheimer's patients."
+  }
+}

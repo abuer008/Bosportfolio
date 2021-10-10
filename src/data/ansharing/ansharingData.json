@@ -1,0 +1,35 @@
+{
+  "header": {
+    "headline": "Ansharing",
+    "subheadline": "Intensive team work",
+    "body": "As part of the design thinking workshop, we were encouraged to listen to a wide range of opinions, perspectives and perceptions on the theme of Anscharpark and its evolution. The feelings about the topic neighborhood and the possibility of maintaining a good neighbourhood were significant to us."
+  },
+  "interview": {
+    "title": "Interview and result",
+    "body": "One week after our Design Thinking Workshop, we ventured another attempt and asked Famila customers for their opinion of the Neighborhood. The opinions are considerably different. Single parents, couples, single people and divorced people have told us how important a functioning neighborhood is. That one should know his neighbor and sometimes pours the plants of the other during the holiday is the ideal for most people. But is the bond really that good? A father reported that he hardly knows his neighbors. On the one hand, it is difficult to make contacts or even to know who actually lives next to one; on the other hand, there is usually no reason or a suitable topic for a conversation after the first fleeting encounter in the stairwell. The similarity of their neighborhood that many people at the same time move into a completely foreign environment see the two in the Anscharparkprojekt, with the difference that these people want to live there permanently. Thus a stable and well-known network is beneficial. In the dormitory, there is significantly more fluctuation."
+  },
+  "sharing": {
+    "title": "Sharing",
+    "body": "The sharing economy has become a trendy topic nowadays. Many forms of sharing emerge in an endless stream. Whether it is travel mode or life communication, the emergence of sharing proves that people are happy to accept the \"sharing\" lifestyle. Sharing is easy and energy-saving."
+  },
+  "story": {
+    "title": "The story board",
+    "body": "We gave the name Ansharing to our final idea. We let\nthe neighbors establish contact with each other through\n\"Anschring\", avoiding the embarrassment of not having\na topic and giving them the initiative to choose their\nown communication. On the other hand, \"Anscharing\"\nallows resources to be reused. Excess food the best\nchoice for neighbors. Because of nearby, the food is still\nvery fresh and does not be wasted. It also deepens the\ncommunication between neighbors. Any other needs or\nofferings can also be published through \"Anscharing\".\nAfter some neighbors are familiar with each other,\nwatering for plants is easier to happen.\n\"Anscharing\" gives everyone a platform to publish or find.\nOn top of this, the scope of neighbors is bigger, and the\nsuccess rate of communication with neighbors is even\ngreater.\nEveryone can share food or share life through\n\"Anscharing\" or help each other."
+  },
+  "userflow": {
+    "title": "User Flow",
+    "body": "In the first stage of the work, through group research and discussion, we created a product flow line, simply writing down what was needed with paper and pen and pasting it on the flow line.\n\nIn the later stages of the work, I reorganised the product flow, selected and added some necessary features and arranged them in the appropriate timeline to create the user flow, then made a wireframe based on the user flow and finally developed it into the final prototype."
+  },
+  "landing": {
+    "title": "Landing page",
+    "body": "We want to establish a connection between neighbours in the community through the icon. The neighbours could build intimate relationships by sharing foods."
+  },
+  "register": {
+    "title": "Security and register",
+    "body": "During the registration phase of Anscharing we considered security issues. Therefore, when the user is newly registered, the user will select the neighborhood and enter the real name and address. The anscharing team will post a letter to the user's home. The letter contains the password. The password can be used to start anscharing. This process ensures that users are real existing neighbors, because they can go to neighbors for meals using anscharing."
+  },
+  "community": {
+    "title": "Neighborhood Community",
+    "body": "In addition to contacting neighbors when sharing food, neighbors can also become friends and stay in touch. Ansharing is a platform that provides information sharing among neighbors, with food sharing as the core, but not limited to food. Neighbors could create and expand their own social circle through this platform so that the relationship between neighbors would be more intimate."
+  }
+}
