@@ -3,7 +3,7 @@ import {Navbar, Nav, Container} from 'react-bootstrap'
 import { useStaticQuery, graphql, Link } from 'gatsby'
 import {Footer} from './footer'
 
-export const Header = ({children}) => {
+const Header = ({children}) => {
   const data = useStaticQuery(graphql`
       query navData {
           allHeaderDataJson {
@@ -27,7 +27,6 @@ export const Header = ({children}) => {
   return (
     <div>
     <Navbar sticky='top' expand='lg' bg='white' variant='light'>
-      <Container fluid='md'>
         <Navbar.Brand>
           <Link to='/'>
           <img src={data.file.publicURL} alt='' width='46' height='46' />
@@ -43,13 +42,13 @@ export const Header = ({children}) => {
           })}
           </Nav>
         </Navbar.Collapse>
-      </Container>
     </Navbar>
       {children}
-      <Footer />
     </div>
   )
 }
+
+export default Header
 
 // export const navData = graphql`
 //     {

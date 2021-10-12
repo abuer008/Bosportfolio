@@ -1,7 +1,7 @@
 import React from 'react'
 import {Container} from 'react-bootstrap'
 
-import {Header} from '../../components/nav'
+import Header from '../../components/nav'
 import { BasicBlock } from "../../components/basicBlock"
 import { CrossImg } from '../../components/crossImg'
 
@@ -25,7 +25,7 @@ import leichaData from '../../data/leichaData/leichaData.json'
 const Leicha = () => {
   return (
     <>
-    <Header>
+      <Header>
       <Container fluid='sm'>
         <BasicBlock url={LeichaVideo} textData={leichaData.header} isVideo isHeader />
         <BasicBlock url={introductionImg} textData={leichaData.introduction} />
@@ -60,7 +60,7 @@ const Leicha = () => {
         <BasicBlock url={modelImg} textData={leichaData.final} />
         <BasicBlock url={summaryImg} textData={leichaData.summary} />
       </Container>
-    </Header>
+      </Header>
       </>
   )
 }

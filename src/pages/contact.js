@@ -1,5 +1,5 @@
 import React from 'react'
-import {Header} from '../components/nav'
+import Header from '../components/nav'
 
 import { Container, Row, Col } from 'react-bootstrap'
 

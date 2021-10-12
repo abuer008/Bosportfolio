@@ -11,7 +11,7 @@ export const MainBlock = ({url, textData, buttonLink, buttonText, imgAlt = '', i
       <Container className='py-5'>
         <Row>
           <Col md>
-            {isVideo ? <VideoBlock videoSource={url} /> : <img width='550' src={url} alt={imgAlt} />}
+            {isVideo ? <VideoBlock videoSource={url} /> : <img width='550' src={url} alt={imgAlt} className='w-100' />}
           </Col>
           <Col md>
             <Headline headline={textData.headline} subheadline={textData.subheadline} body={textData.body} />

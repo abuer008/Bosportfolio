@@ -1,7 +1,7 @@
 import React from 'react'
 
 import {Container} from 'react-bootstrap'
-import {Header} from '../../components/nav'
+import Header from '../../components/nav'
 import { BasicBlock } from "../../components/basicBlock"
 import { CrossImg } from "../../components/crossImg"
 

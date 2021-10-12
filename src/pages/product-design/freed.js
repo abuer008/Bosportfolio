@@ -1,7 +1,7 @@
 import React from 'react'
 
 import {Container} from 'react-bootstrap'
-import {Header} from '../../components/nav'
+import Header from '../../components/nav'
 import { BasicBlock } from "../../components/basicBlock"
 import {CrossImg} from "../../components/crossImg"
 
@@ -54,7 +54,6 @@ const Freed = () => {
             <source src={freedVideo} type='video/mp4' />
           </video>
         </Container>
-
       </Header>
     </>
   )

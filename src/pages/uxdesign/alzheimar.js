@@ -1,6 +1,6 @@
 import React from 'react'
 import {Container} from 'react-bootstrap'
-import {Header} from '../../components/nav'
+import Header from '../../components/nav'
 import { AlzheimerTitle } from "../../components/alzheimerTitle"
 import { BasicBlock } from "../../components/basicBlock"
 
