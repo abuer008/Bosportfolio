@@ -11,9 +11,9 @@ import LeichaVideo from '../data/leichaData/leichaVideo.mp4'
 import FreedVideo from '../data/freed/FREE-DVideo.mp4'
 import leichaData from '../data/leichaData/leichaData.json'
 import freedData from '../data/freed/freedData'
-import alzheimer from '../data/alzheimerData/headImg.png'
+import alzheimer from '../data/alzheimerData/headImg.webp'
 import alzheimerData from '../data/alzheimerData/alzheimerData.json'
-import ansharing from '../data/ansharing/headerImg.png'
+import ansharing from '../data/ansharing/headerImg.webp'
 import ansharingData from '../data/ansharing/ansharingData.json'
 
 export default function Home() {

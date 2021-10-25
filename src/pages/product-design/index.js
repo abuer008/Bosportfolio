@@ -3,7 +3,7 @@ import Header from '../../components/nav'
 import { SubPageHead } from "../../components/subPageHead"
 import { Container } from 'react-bootstrap'
 
-import productHeadImg from '../../data/productdesignHeadImg.png'
+import productHeadImg from '../../data/productdesignHeadImg.webp'
 import leichaVideo from '../../data/leichaData/leichaVideo.mp4'
 import leichaData from '../../data/leichaData/leichaData.json'
 import freedVideo from '../../data/freed/FREE-DVideo.mp4'

@@ -3,10 +3,10 @@ import Header from '../../components/nav'
 import { SubPageHead } from "../../components/subPageHead"
 import {Container} from 'react-bootstrap'
 
-import UXHeadImg from '../../data/uxdesignHeadImg.png'
-import alzheimer from '../../data/alzheimerData/headImg.png'
+import UXHeadImg from '../../data/uxdesignHeadImg.webp'
+import alzheimer from '../../data/alzheimerData/headImg.webp'
 import alzheimerData from '../../data/alzheimerData/alzheimerData.json'
-import ansharing from '../../data/ansharing/headerImg.png'
+import ansharing from '../../data/ansharing/headerImg.webp'
 import ansharingData from '../../data/ansharing/ansharingData'
 import { MainBlock } from "../../components/mainBlock"
 
