@@ -16,7 +16,8 @@ const ProductDesign = () => {
       <Header>
         <SubPageHead title="Product design" url={productHeadImg} />
 
-        <Container fluid='sm' className='position-absolute start-50 top-100 translate-middle-x'>
+
+        <Container fluid='sm' className='py-5 my-5'>
           <MainBlock url={leichaVideo} textData={leichaData.header} buttonLink='/product-design/leicha' buttonText='Enter Leicha' isVideo />
           <MainBlock url={freedVideo} textData={freedData.header} buttonLink='/product-design/freed' buttonText='Enter Free D' isVideo />
         </Container>

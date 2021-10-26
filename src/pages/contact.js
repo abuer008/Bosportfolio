@@ -9,8 +9,7 @@ export default function Contact() {
   return (
     <div>
       <Header>
-        <Container>
-          <Row className='p-5' />
+        <Container className='py-5 my-5'>
           <Row>
             <Col xs={2} />
             <Col xs={1}>

@@ -44,6 +44,7 @@ const Header = ({children}) => {
         </Navbar.Collapse>
     </Navbar>
       {children}
+      <Footer />
     </div>
   )
 }

@@ -16,7 +16,7 @@ const Uxdesign = () => {
       <Header>
         <SubPageHead url={UXHeadImg} title='UX/UI design' />
 
-        <Container fluid='sm' className='position-absolute start-50 top-100 translate-middle-x'>
+        <Container fluid='sm' className='py-5 my-5'>
           <MainBlock url={alzheimer} textData={alzheimerData.header} buttonLink='/uxdesign/alzheimar' buttonText='Enter AlzheimAR' />
           <MainBlock url={ansharing} textData={ansharingData.header} buttonLink='/uxdesign/ansharing' buttonText='Enter Ansharing' />
         </Container>
