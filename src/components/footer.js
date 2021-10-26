@@ -103,7 +103,7 @@ export const Footer = () => {
               <h6 className="text-uppercase fw-bold mb-4">
                 Contact
               </h6>
-              <a href='mailto:kongboo@outlook.com' className='text-decoration-none text-primary'>
+              <a href='mailto:kongboo@outlook.com' className='text-decoration-none text-reset'>
               <p>
                 <BsMailbox2 />    kongboo@outlook.com
               </p>
