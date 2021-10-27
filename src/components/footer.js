@@ -12,34 +12,34 @@ export const Footer = () => {
   return (
     <>
     <footer className='fixed-footer bg-light m-auto p-0'>
-      <section className="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
+      {/*<section className="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">*/}
 
-        <div className="me-5 d-none d-lg-block">
-          <span>Get connected with me on social networks:</span>
-        </div>
+      {/*  <div className="me-5 d-none d-lg-block">*/}
+      {/*    <span>Get connected with me on social networks:</span>*/}
+      {/*  </div>*/}
 
-        <IconContext.Provider value={{size: '2em'}}>
-        <div>
-          <a href="" className="me-4 text-reset">
-            <FaFacebookSquare />
-          </a>
-          <a href="" className="me-4 text-reset">
-            <FaTwitterSquare />
-          </a>
-          <a href="" className="me-4 text-reset">
-            <FaInstagramSquare />
-          </a>
-          <a href="" className="me-4 text-reset">
-            <FaLinkedin />
-          </a>
-          <a href="" className="me-4 text-reset">
-            <FaGithubSquare />
-          </a>
-        </div>
-        </IconContext.Provider>
-      </section>
+      {/*  <IconContext.Provider value={{size: '2em'}}>*/}
+      {/*  <div>*/}
+      {/*    <a href="" className="me-4 text-reset">*/}
+      {/*      <FaFacebookSquare />*/}
+      {/*    </a>*/}
+      {/*    <a href="" className="me-4 text-reset">*/}
+      {/*      <FaTwitterSquare />*/}
+      {/*    </a>*/}
+      {/*    <a href="" className="me-4 text-reset">*/}
+      {/*      <FaInstagramSquare />*/}
+      {/*    </a>*/}
+      {/*    <a href="" className="me-4 text-reset">*/}
+      {/*      <FaLinkedin />*/}
+      {/*    </a>*/}
+      {/*    <a href="" className="me-4 text-reset">*/}
+      {/*      <FaGithubSquare />*/}
+      {/*    </a>*/}
+      {/*  </div>*/}
+      {/*  </IconContext.Provider>*/}
+      {/*</section>*/}
 
-      <section className="">
+      <section className="p-2">
         <div className="container text-center text-md-start mt-5">
           <div className="row mt-3">
             <div className="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
@@ -88,16 +88,16 @@ export const Footer = () => {
               </p>
             </div>
 
-            <div className="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
-              <h6 className="text-uppercase fw-bold mb-4">
-                Relative links
-              </h6>
+            {/*<div className="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">*/}
+            {/*  <h6 className="text-uppercase fw-bold mb-4">*/}
+            {/*    Relative links*/}
+            {/*  </h6>*/}
 
 
-              <a href='https://en.muthesius-kunsthochschule.de/'>
-                <img src={muthesiusLogo} className='w-75 py-2' />
-              </a>
-            </div>
+            {/*  <a href='https://en.muthesius-kunsthochschule.de/'>*/}
+            {/*    <img src={muthesiusLogo} className='m-auto w-50 py-2' />*/}
+            {/*  </a>*/}
+            {/*</div>*/}
 
             <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
               <h6 className="text-uppercase fw-bold mb-4">
